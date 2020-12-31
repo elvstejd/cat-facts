@@ -9,7 +9,7 @@ loadMoreBtn.addEventListener('click', () => {
     DisplayCats();
 });
 
-console.log('test');
+console.log('Hi.');
 
 
 async function DisplayCats() {
