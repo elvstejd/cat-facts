@@ -1,0 +1,23 @@
+{
+  "name": "cat-facts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appold.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvstejd/cat-facts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvstejd/cat-facts/issues"
+  },
+  "homepage": "https://github.com/elvstejd/cat-facts#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
